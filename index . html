@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dentro | Building Materials Suppliers</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+
+    header {
+      background-color: #ffffff;
+      padding: 1rem 2rem;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    header h1 {
+      margin: 0;
+      color: #007bff;
+    }
+
+    .container {
+      padding: 2rem;
+    }
+
+    .section {
+      margin-bottom: 2rem;
+    }
+
+    .card {
+      background-color: #ffffff;
+      border-radius: 8px;
+      padding: 1.5rem;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+
+    footer {
+      background-color: #007bff;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Dentro</h1>
+    <p>Building Materials Supplier | 24/7 Operations</p>
+  </header>
+
+  <div class="container">
+    <div class="section card">
+      <h2>About Us</h2>
+      <p>Dentro is a trusted supplier of building aggregates such as bricks, river sand, 3/4 stone, pit sand, gravel, and more. We also provide reliable transport for all your construction materials.</p>
+    </div>
+
+    <div class="section card">
+      <h2>Contact Details</h2>
+      <p><strong>Phone:</strong> <a href="tel:+263774483252">+263 774 483 252</a></p>
+      <p><strong>Email:</strong> <a href="mailto:dentro206@gmail.com">dentro206@gmail.com</a></p>
+      <p><strong>Address:</strong> Mount Hampden Junction, Zimbabwe</p>
+      <p><strong>Hours:</strong> Open 24/7</p>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 Dentro | All rights reserved
+  </footer>
+</body>
+</html>
