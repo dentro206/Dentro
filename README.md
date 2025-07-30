@@ -89,8 +89,8 @@
       <p>Your trusted partner in building materials</p>
     </div>
   </section>  <section class="section" id="about">
-    <h2>About Dentro</h2>
-    <p>Dentro is a leading supplier of high-quality construction materials including bricks, river sand, 3/4 stone, and other aggregates. We deliver dependable service and consistent supply to help you build with confidence.</p>
+    <h2>About ZaNe Aggregates</h2>
+    <p>ZaNe Aggregates is a leading supplier of high-quality construction materials including bricks, river sand, 3/4 stone, and other aggregates. We deliver dependable service and consistent supply to help you build with confidence.</p>
   </section>  <section class="section" id="products">
     <h2>Our Products</h2>
     <div class="products">
